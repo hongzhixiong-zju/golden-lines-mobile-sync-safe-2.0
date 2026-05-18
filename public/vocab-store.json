@@ -1,0 +1,42 @@
+﻿{
+    "version":  1,
+    "versionLabel":  "v1-public",
+    "updatedAt":  "2026-05-17T13:41:43.4264688Z",
+    "articles":  [
+
+                 ],
+    "quotes":  [
+
+               ],
+    "vocab":  [
+
+              ],
+    "reviews":  [
+
+                ],
+    "audioCache":  [
+
+                   ],
+    "settings":  {
+                     "id":  "default",
+                     "collinsApiKey":  "",
+                     "aiApiKey":  "",
+                     "aiApiBaseUrl":  "https://api.deepseek.com",
+                     "aiApiModel":  "deepseek-v4-flash",
+                     "ttsMode":  "browser",
+                     "intervals":  [
+                                       1,
+                                       3,
+                                       7,
+                                       14,
+                                       30
+                                   ]
+                 },
+    "nextIds":  {
+                    "quote":  1,
+                    "article":  1,
+                    "vocab":  1,
+                    "review":  1,
+                    "audio":  1
+                }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Golden Lines Mobile Sync",
+  "short_name": "Golden Lines",
+  "description": "English quote and vocabulary review PWA with GitHub Gist sync.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#2f5d62",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
